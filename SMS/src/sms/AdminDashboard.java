@@ -100,7 +100,7 @@ public class AdminDashboard extends javax.swing.JFrame {
                 .addComponent(jButton7)
                 .addGap(14, 14, 14)
                 .addComponent(jButton9)
-                .addContainerGap(117, Short.MAX_VALUE))
+                .addContainerGap(100, Short.MAX_VALUE))
         );
 
         jPanel3.setBackground(new java.awt.Color(51, 255, 255));
